@@ -1,5 +1,21 @@
 # Makeup 💋
 
+<p> 
+    <a href="https://www.bitrise.io">
+        <img src="https://app.bitrise.io/app/61ab971f41ba1c99/status.svg?token=tpPB3UQPxF6A2wSv_EljFQ&branch=develop/release" alt="Bitrise"/>
+    </a>
+    <a href="https://swift.org">
+        <img src="https://img.shields.io/badge/Swift-5.1-red.svg?logo=swift" />
+    </a>
+    <a href="https://swift.org/package-manager">
+        <img src="https://img.shields.io/badge/SwiftPM-Compatible-brightgreen.svg?style=flat" alt="SwiftPM" />
+    </a>
+    <img src="https://img.shields.io/badge/Platforms-Mac & Linux-green.svg?style=flat" alt="Mac & Linux" />
+    <a href="https://twitter.com/maximkrouk">
+        <img src="https://img.shields.io/badge/twitter-@maximkrouk-blue.svg?logo=twitter&style=social" alt="Twitter: @maximkrouk" />
+    </a>
+</p>
+
 Swift DSL for rendering HTML. Not the first, but the best (will become, one day... 😌)
 
 ## Usage
@@ -135,12 +151,6 @@ __Calendar:__
 
 🗳 - Waiting
 
----
-
-_Contact [me](https://twitter.com/maximkrouk) if You want to contribute before the guide is provided._
-
-----
-
 
 
 ## Thanks for inspiration and ideas
@@ -159,7 +169,7 @@ __[Pointfree.co](https://github.com/pointfreeco)__, __[David Okun](https://githu
 
 ----
 
-_You may contact me [here](https://twitter.com/maximkrouk) if You have any questions._
+_You may contact me [here](https://twitter.com/maximkrouk) if You want to contribute before the guide is provided or if You have any other questions or ideas._
 
 ---
 
