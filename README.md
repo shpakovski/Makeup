@@ -1,11 +1,6 @@
 # Makeup 💋
 
-<p> 
-  <style>
-    * {
-     	text-decoration:none;
-    }
-  </style>
+<p>
     <a href="https://www.bitrise.io">
         <img src="https://app.bitrise.io/app/61ab971f41ba1c99/status.svg?token=tpPB3UQPxF6A2wSv_EljFQ&branch=develop/release" alt="Bitrise"/>
     </a>
@@ -168,11 +163,6 @@ __Calendar:__
 <div>
   <!-- --------------------- pointfree.co --------------------- -->
   <p>
-  <style>
-    * {
-     	text-decoration:none;
-    }
-  </style>
   <a href="https://github.com/pointfreeco">
   <img src="https://img.shields.io/badge/github--aaaaaa.svg?logo=github&style=social" alt = "GitHub: @pointfreeco">
   </a>
@@ -185,11 +175,6 @@ __Calendar:__
 </p>
   <!-- --------------------- David Okun --------------------- -->
   <p>
-  <style>
-    * {
-     	text-decoration:none;
-    }
-  </style>
   <a href="https://github.com/dokun1">
   <img src="https://img.shields.io/badge/github--aaaaaa.svg?logo=github&style=social" alt = "GitHub: @dokun1">
   </a>
@@ -202,11 +187,6 @@ __Calendar:__
 </p>
   <!-- -------------------- John Sundell -------------------- -->
   <p>
-  <style>
-    * {
-     	text-decoration:none;
-    }
-  </style>
   <a href="https://github.com/johnsundell">
   <img src="https://img.shields.io/badge/github--aaaaaa.svg?logo=github&style=social" alt = "GitHub: @johnsundell">
   </a>
