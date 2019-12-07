@@ -1,6 +1,11 @@
 # Makeup 💋
 
 <p> 
+  <style>
+    * {
+     	text-decoration:none;
+    }
+  </style>
     <a href="https://www.bitrise.io">
         <img src="https://app.bitrise.io/app/61ab971f41ba1c99/status.svg?token=tpPB3UQPxF6A2wSv_EljFQ&branch=develop/release" alt="Bitrise"/>
     </a>
@@ -12,7 +17,7 @@
     </a>
     <img src="https://img.shields.io/badge/Platforms-Mac & Linux-green.svg?style=flat" alt="Mac & Linux" />
     <a href="https://twitter.com/maximkrouk">
-        <img src="https://img.shields.io/badge/twitter-@maximkrouk-blue.svg?logo=twitter&style=social" alt="Twitter: @maximkrouk" />
+        <img src="https://img.shields.io/badge/twitter-@maximkrouk-blue.svg?logo=twitter&style=social" alt="Twitter: @maximkrouk"/>
     </a>
 </p>
 
@@ -83,7 +88,7 @@ is rendered to:
 
 and looks like:
 
-<img src="./Assets/Example-iPhone5.png" alt="Example-iPhone5" width="270px" />
+<img src="./Assets/Example-iPhone5.png" alt="Example-iPhone5" width="270px"/>
 
 
 
@@ -92,14 +97,14 @@ and looks like:
 Add the package to Your SwiftPM package dependencies:
 
 ```swift
-.package(url: "https://github.com/MakeupStudio/Makeup.git", from: "0.1.1")
+.package(url: "https://github.com/MakeupStudio/Makeup.git", from: "0.2.1")
 ```
 
 then add `Makeup` dependency to your target.
 
 ## Still in Beta
 
-_[Not recommended to for production use yet, but you are welcome to test it out_ 😉_]_
+_[Not recommended to for production use yet, but you are welcome to test it out and **[here](https://mxswift.herokuapp.com)** is my example_ 😉_]_
 
 __Calendar:__
 
@@ -116,7 +121,7 @@ __Calendar:__
 - 🗳 Xcode documentation in sources
 
   -  November 2019 – December 2019
-- 🗳 Git-flow
+- ⏱ Git-flow
 
   - December 2019
 - ⏱ First release (API v1, static pages & simple sites production ready) _(1.0.0)_
@@ -127,21 +132,26 @@ __Calendar:__
   - December 2019 – Janruary 2020
 - 🗳 Attributes extended support _(via static factories)_
   - January 2020
-- 🗳 CSS extended support
-
-  - January 2020 – February 2020
-- 🗳 JS support
-  - January 2020 – February 2020
 - 🗳 API v2 _(2.0.0)_
   - February 2020
 - 🗳 External docs & Examples
 
-  - uo to May 2020
+  - Up to May 2020
 - 🗳 Testing
 
-  - up to May 2020
-- 🗳 API v3 (stable) _(2.0.0)_
+  - Up to May 2020
+- 🗳 API v3 _(3.0.0)_
   - May - June 2020
+- Other
+  - 🗳 SVG support
+  - 🗳 Drawing engine, based on SVG
+  - 🗳 XML support
+  - 🗳 MD support
+  - 🗳 Syntax highlighting
+  - 🗳 Swift grammar for syntax highlighting
+  - 🗳 JS support
+  - 🗳 CSS extended support
+  - ⏱ Extracting colors into another library _(GenericColors)_
 
 ---
 
@@ -155,15 +165,58 @@ __Calendar:__
 
 ## Thanks for inspiration and ideas
 
-__[Pointfree.co](https://github.com/pointfreeco)__, __[David Okun](https://github.com/dokun1/)__ & __[WWDC2019](https://developer.apple.com/videos/play/wwdc2019/402/)__
-
-[David's Twitter](https://twitter.com/dokun24)
-
-[PointFree's Twitter](https://twitter.com/pointfreeco)
-
-[Vaux](https://github.com/dokun1/Vaux)
-
-[Swift-html](https://github.com/pointfreeco/swift-html)
+<div>
+  <!-- --------------------- pointfree.co --------------------- -->
+  <p>
+  <style>
+    * {
+     	text-decoration:none;
+    }
+  </style>
+  <a href="https://github.com/pointfreeco">
+  <img src="https://img.shields.io/badge/github--aaaaaa.svg?logo=github&style=social" alt = "GitHub: @pointfreeco">
+  </a>
+  <a href="https://github.com/pointfreeco/swift-html">
+  <img src="https://img.shields.io/badge/swift__html--aaaaaa.svg?style=social" alt = "Repo: @pointfreeco/swift-html">
+  </a>
+  <a href="https://twitter.com/pointfreeco">
+        <img src="https://img.shields.io/badge/twitter-@pointfreeco-blue.svg?logo=twitter&style=social" alt="Twitter: @pointfreeco" />
+    </a>
+</p>
+  <!-- --------------------- David Okun --------------------- -->
+  <p>
+  <style>
+    * {
+     	text-decoration:none;
+    }
+  </style>
+  <a href="https://github.com/dokun1">
+  <img src="https://img.shields.io/badge/github--aaaaaa.svg?logo=github&style=social" alt = "GitHub: @dokun1">
+  </a>
+  <a href="https://github.com/dokun1/vaux">
+  <img src="https://img.shields.io/badge/vaux--aaaaaa.svg?style=social" alt = "GitHub: @dokun1/vaux">
+  </a>
+  <a href="https://twitter.com/dokun24">
+        <img src="https://img.shields.io/badge/twitter-@dokun24-blue.svg?logo=twitter&style=social" alt="Twitter: @dokun24" />
+    </a>
+</p>
+  <!-- -------------------- John Sundell -------------------- -->
+  <p>
+  <style>
+    * {
+     	text-decoration:none;
+    }
+  </style>
+  <a href="https://github.com/johnsundell">
+  <img src="https://img.shields.io/badge/github--aaaaaa.svg?logo=github&style=social" alt = "GitHub: @johnsundell">
+  </a>
+  <a href="https://github.com/johnsundell/plot">
+  <img src="https://img.shields.io/badge/plot--aaaaaa.svg?style=social" alt = "GitHub: @johnsundell/plot">
+  </a>
+  <a href="https://twitter.com/johnsundell">
+        <img src="https://img.shields.io/badge/twitter-@johnsundell-blue.svg?logo=twitter&style=social" alt="Twitter: @johnsundell" />
+    </a>
+</p></div>
 
 
 
